@@ -1,8 +1,10 @@
 # 🚨 Afet Durum Analizi
+<img width="720" height="587" alt="image" src="https://github.com/user-attachments/assets/3356c9b5-a2d9-4d34-ac2a-e7b160acbbbe" />
 
 > Deprem döneminde Twitter/X'te paylaşılan Türkçe tweetleri sınıflandıran, konum ve ihtiyaç bilgilerini çıkaran ve sonuçları Türkiye haritası üzerinde görselleştiren bir NLP sistemi.
 
 **BMÜ 460 — Doğal Dil İşleme Dönem Sonu Projesi | Fırat Üniversitesi**
+<img width="658" height="198" alt="image" src="https://github.com/user-attachments/assets/1f4a4813-0c1d-43e2-bd16-937d6dc8acb1" />
 
 ---
 
@@ -16,6 +18,7 @@
 |  | Ahmet Melik Yıldırım |
 
 ---
+<img width="440" height="387" alt="image" src="https://github.com/user-attachments/assets/af8d8730-0b85-4977-bb54-2c180541668f" />
 
 ## 🎯 Proje Özeti
 
@@ -28,8 +31,10 @@ Deprem gibi kriz anlarında Twitter akışı; yardım çağrıları, ihtiyaç bi
 3. **NER (Varlık Tanıma)** — Metinden il, ilçe, adres, kişi, telefon gibi alanları çıkar.
 
 Çıktı, C# WPF masaüstü uygulamasında Türkiye haritası üzerinde şehir bazlı yoğunluk olarak görselleştirilir.
+<img width="547" height="435" alt="image" src="https://github.com/user-attachments/assets/46093b43-be74-444c-8a05-1610781cb9ec" />
 
 ---
+<img width="730" height="687" alt="image" src="https://github.com/user-attachments/assets/5afcc642-b747-4de6-b798-834f3724583d" />
 
 ## 📊 Veri Seti
 
@@ -56,6 +61,7 @@ Deprem gibi kriz anlarında Twitter akışı; yardım çağrıları, ihtiyaç bi
 | Konu Dışı | 5.692 | %16,20 |
 | Yardım Çağrısı | 4.671 | %13,30 |
 | İhtiyaç | 2.707 | %7,71 |
+<img width="720" height="587" alt="image" src="https://github.com/user-attachments/assets/81e00369-3b5d-4372-8bd1-18187caddae9" />
 
 ---
 
