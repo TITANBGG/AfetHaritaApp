@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+desktop.ini
+
+# Generated presentation
+PROJE_SUNUSU.pptx
+
+# Large data and executables (use Git LFS if you want to track them)
+AfetHaritaApp-Portable/
+tweets_tr_classified_all.csv
+
+# Jupyter
+.ipynb_checkpoints/
